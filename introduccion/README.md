@@ -1,36 +1,30 @@
 # Introducción a la ciberseguridad
 
-¡Bienvenido a la materia de Introducción a la ciberseguridad! En este módulo, exploraremos los conceptos fundamentales de la ciberseguridad y su importancia en la protección de la información en el entorno digital.
-
-## Descripción
-
-En esta sección, te proporcionaremos una sólida base para comprender los aspectos básicos de la ciberseguridad. Exploraremos las amenazas cibernéticas comunes, las medidas de seguridad necesarias y las mejores prácticas para proteger tus datos, sistemas y redes.
+En esta materia introductoria, exploraremos los conceptos fundamentales de la ciberseguridad y su importancia en la protección de la información en el entorno digital.
 
 ## Contenido del módulo
 
 1. Conceptos básicos de ciberseguridad
-   - Definición y alcance de la ciberseguridad
-   - Tipos de amenazas y ataques cibernéticos
-   - Principales actores en el panorama de la ciberseguridad
+
+   En esta sección, aprenderás los conceptos clave de la ciberseguridad, incluyendo definiciones y alcance de la disciplina. Exploraremos los diferentes tipos de amenazas y ataques cibernéticos, así como los principales actores involucrados en el panorama de la ciberseguridad.
 
 2. Importancia de la ciberseguridad
-   - Impacto de los ataques cibernéticos en individuos, organizaciones y la sociedad
-   - Costos y consecuencias de la falta de seguridad digital
-   - Rol de la ciberseguridad en la protección de la privacidad y los derechos digitales
+
+   En este tema, comprenderás la importancia de la ciberseguridad en la protección de individuos, organizaciones y la sociedad en general. Discutiremos el impacto de los ataques cibernéticos, los costos asociados con la falta de seguridad digital y el papel de la ciberseguridad en la protección de la privacidad y los derechos digitales.
 
 3. Fundamentos de la seguridad de la información
-   - Confidencialidad, integridad y disponibilidad de la información
-   - Principios de seguridad de la información
-   - Políticas y estándares de seguridad de la información
+
+   Aquí exploraremos los fundamentos de la seguridad de la información, incluyendo los principios de confidencialidad, integridad y disponibilidad. También analizaremos las políticas y los estándares relacionados con la seguridad de la información.
 
 4. Medidas de seguridad básicas
-   - Uso de contraseñas seguras y prácticas de gestión de contraseñas
-   - Actualizaciones de software y parches de seguridad
-   - Protección contra malware y virus
+
+   En esta sección, cubriremos las medidas de seguridad esenciales que todos debemos tomar para protegernos en el entorno digital. Discutiremos el uso de contraseñas seguras y las mejores prácticas de gestión de contraseñas, la importancia de las actualizaciones de software y los parches de seguridad, y cómo protegernos contra malware y virus.
 
 ## Recursos adicionales
 
-En este módulo, encontrarás una variedad de recursos, como enlaces a artículos, tutoriales, videos y ejercicios prácticos. Te animamos a explorarlos y profundizar en los temas que te resulten más interesantes o relevantes para tu aprendizaje.
+- [Artículo: Ciberseguridad 101](https://example.com/articulo-ciberseguridad-101)
+- [Video: Introducción a la ciberseguridad](https://example.com/video-introduccion-ciberseguridad)
+- [Tutorial: Cómo crear contraseñas seguras](https://example.com/tutorial-contraseñas-seguras)
 
 ## Contribuciones
 
