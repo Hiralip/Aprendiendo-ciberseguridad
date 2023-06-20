@@ -6,7 +6,7 @@ En esta materia introductoria, exploraremos los conceptos fundamentales de la ci
 
 1. [Conceptos básicos de ciberseguridad](Conceptos-basicos/README.md)
 
-   En esta sección, aprenderás los conceptos clave de la ciberseguridad, incluyendo definiciones y alcance de la disciplina. Exploraremos los diferentes tipos de amenazas y ataques cibernéticos, así como los principales actores involucrados en el panorama de la ciberseguridad.
+En esta sección, aprenderás los conceptos clave de la ciberseguridad, incluyendo definiciones y alcance de la disciplina. Exploraremos los diferentes tipos de amenazas y ataques cibernéticos, así como los principales actores involucrados en el panorama de la ciberseguridad.
 
 2. [Importancia de la ciberseguridad](Importancia/README.md)
 
