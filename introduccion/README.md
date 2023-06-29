@@ -24,7 +24,7 @@ En esta materia introductoria, exploraremos los conceptos fundamentales de la ci
 
 ## Recursos adicionales
 
-- [Artículo: Introduccion a la ciberseguridad]([https://example.com/articulo-ciberseguridad-101)](https://www.lisainstitute.com/blogs/blog/introduccion-a-la-ciberseguridad-primeros-pasos)
+- [Artículo: Introduccion a la ciberseguridad]([https://www.lisainstitute.com/blogs/blog/introduccion-a-la-ciberseguridad-primeros-pasos)]
 - [Video: Introducción a la ciberseguridad](https://youtu.be/TM-OT1U3P0k)
 - [Tutorial: Cómo crear contraseñas seguras](https://support.google.com/accounts/answer/32040?hl=es-419)
 
